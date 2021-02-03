@@ -18,8 +18,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "snuffie";
-const char* password = "eiffuns3473";
+const char* ssid = "Mijn_ssid";     // Vul hier je eigen ssid in
+const char* password = "*********"; // Vul hier het paswoord voor je netwerk in
 
 void startCameraServer();
 
