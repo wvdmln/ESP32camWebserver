@@ -18,8 +18,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "Mijn_ssid";     // Vul hier je eigen ssid in
-const char* password = "*********"; // Vul hier het paswoord voor je netwerk in
+const char* ssid = "ESP32AP";     // Vul hier je eigen ssid in
+const char* password = "12345678"; // Vul hier het paswoord voor je netwerk in
 
 void startCameraServer();
 
